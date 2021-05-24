@@ -1,6 +1,5 @@
 # Cloud Computing Ex1 - Parking Lot
-Ran Havaletzki
-Helen Grein
+Helen Grein and Ran Havaletzki
 
  a system that would track and compute cars entry & exit from parking lots, as well as compute their charge.
  
