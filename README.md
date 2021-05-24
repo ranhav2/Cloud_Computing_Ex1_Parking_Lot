@@ -16,9 +16,9 @@ Helen Grein
 ## Endpoints
 two HTTP endpoints:
 • POST /entry?plate=123-123-123&parkingLot=382
-    o Returns ticket id
+ • Returns ticket id
 • POST /exit?ticketId=1234
-    o Returns the license plate, total parked time, the parking lot id and the charge (based on 15 minutes increments).
+ • Returns the license plate, total parked time, the parking lot id and the charge (based on 15 minutes increments).
 The charge for parking is 10$ per hour.
 
 ## Installation
